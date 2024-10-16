@@ -4,7 +4,7 @@ This project is a simple web-based jumping game inspired by classic endless runn
 
 ## Demo
 
-You can play the game by clicking [here](#) (update with your GitHub Pages link if applicable).
+You can play the game by clicking [here](#) (https://kiransarvesh.github.io/Retro-Mario-Redux/).
 
 ## Features
 
